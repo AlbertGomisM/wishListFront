@@ -1,0 +1,14 @@
+.divNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2px;
+    background-color: #ffd15b;
+    height: 3rem;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
